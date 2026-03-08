@@ -1,0 +1,2 @@
+E:\Projects\Unity\XiahAssetsImport\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\Projects\Unity\XiahAssetsImport\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
