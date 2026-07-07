@@ -15,4 +15,4 @@ For compile, you need
 ![App Screenshot](https://github.com/user-attachments/assets/6bf886b6-e5f9-43c3-847b-d96af05b8c79)
 
 ## Known problems
-It wont load textures automatically, you need to use XPK Unpacker to find correct texture and add it yourself. Also doesnt support skeleton data so no animation viewing yet.
+It wont load textures automatically, you need to use [XPK Unpacker](https://github.com/zarut/XPK-Filereader) to find correct texture and add it yourself. Also doesnt support skeleton data so no animation viewing yet.
